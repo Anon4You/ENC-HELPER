@@ -4,6 +4,10 @@
 #include <unistd.h>
 #include <ctype.h>
 
+// Author: Alienkrishn [Anon4You]
+// Github: https://github.com/Anon4You
+
+
 // Function to display the banner
 void banner() {
     printf("\n");

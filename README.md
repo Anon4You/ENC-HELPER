@@ -1,6 +1,15 @@
 # ENC-HELPER
 
-![ENC-HELPER Banner](https://via.placeholder.com/800x200.png?text=ENC-HELPER)  
+```
+ ____________
+< ENC-HELPER > 
+ ------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\\       )\/\
+                ||----w |
+                ||     || ver-1.0
+```
 *Encrypt and Decrypt Strings with Ease*
 
 ENC-HELPER is a powerful command-line utility written in C that provides a suite of tools for string manipulation. With features for reversing strings, base64 encoding and decoding, and ROT13 encoding, this utility is designed for users who need quick and efficient text transformations.
