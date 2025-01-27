@@ -19,7 +19,7 @@ void banner() {
     printf("            (__)\\       )\\/\\\n");
     printf("                ||----w |\n");
     printf("                ||     || ver-1.0\n");
-    printf("\n    Encrypt and decrypt strings\n");
+    printf("\n    Encrypt and decrypt strings\n\n");
 }
 
 // Function to reverse a string
